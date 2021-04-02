@@ -26,11 +26,10 @@ Open source admin 2 boundaries have missing countries & invalid geometries. [Fol
 
 
 #### Maps
-```{r , echo=FALSE, fig.cap="Gloabl Admin Maps", out.width='70%',fig.align="center"}
-knitr::include_graphics("Admin2 Maps/gadm.png")
-knitr::include_graphics("Admin2 Maps/geoboundaries.png")
-knitr::include_graphics("Admin2 Maps/gadm missing countries.png")
-knitr::include_graphics("Admin2 Maps/88 in wag not in gadm.png")
-knitr::include_graphics("Admin2 Maps/88 in wag not in gadm with gadm.png")
 
-```
+[]("Admin2 Maps/gadm.png")
+[]("Admin2 Maps/geoboundaries.png")
+[]("Admin2 Maps/gadm missing countries.png")
+[]("Admin2 Maps/88 in wag not in gadm.png")
+[]("Admin2 Maps/88 in wag not in gadm with gadm.png")
+
